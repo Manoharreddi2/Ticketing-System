@@ -47,7 +47,6 @@ npm install
 npm run dev
 ```
 
-Head over to `http://localhost:3000`. 
 
 ### Demo Logins
 Since the database auto-seeds, you can jump right in with these test accounts:
